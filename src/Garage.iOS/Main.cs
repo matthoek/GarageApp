@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace DayVsNight.iOS
+namespace Garage.iOS
 {
     public class Application
     {
