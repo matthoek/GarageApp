@@ -219,16 +219,6 @@
                 
             </StackLayout>
         </ScrollView>
-
-        <ScrollView
-            Grid.Row="2"
-            HorizontalScrollBarVisibility="Never"
-            Orientation="Horizontal">
-            <StackLayout Scale="2" VerticalOptions="Center">
-                <Image Source="Group15" />
-            </StackLayout>
-        </ScrollView>
-
     </Grid>
 
 
